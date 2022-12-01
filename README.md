@@ -27,3 +27,9 @@ All of these things mean it's possible to quickly and automatically produce mode
 3. Automation and iterative processes.
 4. Scalability.
 5. Ensemble modeling.
+
+## Did you know?
+1. In machine learning, a target is called a label.
+1. In statistics, a target is called a dependent variable.
+1. A variable in statistics is called a feature in machine learning.
+1. A transformation in statistics is called feature creation in machine learning.
