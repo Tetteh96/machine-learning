@@ -15,3 +15,8 @@ While many machine learning algorithms have been around for a long time, the abi
 1. Online recommendation offers such as those from Amazon and Netflix? Machine learning applications for everyday life
 1. Knowing what customers are saying about you on Twitter? Machine learning combined with linguistic rule creation
 1. Fraud detection? One of the more obvious, important uses in our world today.
+
+## Why is machine learning important?
+Resurging interest in machine learning is due to the same factors that have made data mining and Bayesian analysis more popular than ever. Things like growing volumes and varieties of available data, computational processing that is cheaper and more powerful, and affordable data storage.
+
+All of these things mean it's possible to quickly and automatically produce models that can analyze bigger, more complex data and deliver faster, more accurate results – even on a very large scale. And by building precise models, an organization has a better chance of identifying profitable opportunities – or avoiding unknown risks.
