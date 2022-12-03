@@ -35,3 +35,6 @@ All of these things mean it's possible to quickly and automatically produce mode
 1. In statistics, a target is called a dependent variable.
 1. A variable in statistics is called a feature in machine learning.
 1. A transformation in statistics is called feature creation in machine learning.
+
+## Source(s)
+[Machine Learning](https://www.sas.com/en_us/insights/analytics/machine-learning.html)
